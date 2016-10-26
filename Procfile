@@ -1,1 +1,2 @@
-web: node firebaseCardSearch.js
+worker: node firebaseCardSearch.js
+

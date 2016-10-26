@@ -163,7 +163,7 @@ var friendsOfFriendsRetrieved  = function() {
 
 		// Get location of all users in A1. Rank order users in descending order of proximity, return first 100
 		
-		process.exit()
+
 	}
 
 
